@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David but I like to be called 'Davo'</h1>
-<h3 align="center">A passionate Jr. Front-end developer from Guadalajara, México.</h3>
+<h3 align="center">A passionate tech guy from Guadalajara, Mexico who just started his path in IT</h3>
 
-- 🌱 I’m currently learning **Front-End development by Oracle and Alura Latam into the ONE program**
+- 🌱 I’m currently learning things to improve my soft and hard skills for the IT industry.
 
-- 💬 Ask me about **HTML5, CSS3, Flexbox, and Javascript.**
+- 💬 Ask me about computers.
 
 - 📫 How to reach me **davidgd_32843@hotmail.com**
 
